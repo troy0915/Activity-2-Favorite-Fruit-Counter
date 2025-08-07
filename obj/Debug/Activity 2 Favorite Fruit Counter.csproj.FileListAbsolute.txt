@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\bin\Debug\Activity 2 Favorite Fruit Counter.exe.config
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\bin\Debug\Activity 2 Favorite Fruit Counter.exe
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\bin\Debug\Activity 2 Favorite Fruit Counter.pdb
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\obj\Debug\Activity 2 Favorite Fruit Counter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\obj\Debug\Activity 2 Favorite Fruit Counter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\obj\Debug\Activity 2 Favorite Fruit Counter.exe
+C:\Users\HP\source\repos\Activity 2 Favorite Fruit Counter\obj\Debug\Activity 2 Favorite Fruit Counter.pdb
